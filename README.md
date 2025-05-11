@@ -1,2 +1,3 @@
-Spark RDD opearion
+Spark RDD opearion 
+
 Data set is JSON
